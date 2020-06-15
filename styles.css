@@ -1,6 +1,17 @@
-.jumbotron {
-    width: 50%;
-    margin-left: 2rem;
-    margin-top: 2rem;
-    
+#Username{
+    background-color: #4aaaa5;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.img-thumbnail {
+    width: 350px;
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    background-color: grey;
+    text-align: center;
 }
