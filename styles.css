@@ -1,18 +1,73 @@
-#Username{
+.heading{
     background-color: #4aaaa5;
-    color: white;
-    font-weight: bold;
+    color: #fff;
+    font-weight: 700;
     font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 2rem;
+}
+/* Navbar header */
+.header{
+    color: #4aaaa5;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 
-.img-thumbnail {
-    width: 350px;
+.row{
+    background-color: white;
 }
+
+
+
+/* index html about me */
+
+.col-md-6{
+    background-color:teal;
+    margin-top: 1rem;
+}
+
+
+.aboutmeimg{
+    float: left;
+    width: 20vw;
+    height: auto;
+    margin: 1em;
+  
+}
+.block-header{
+    padding-top: 2rem;
+}
+/* portfolio */
+.col-md-8 {
+    padding-top: 2rem;
+}
+.img-thumbnail {
+    width: 350%;
+    border:0;
+    padding:0;
+    height: 80%;
+}
+
+h3{
+    position: relative;
+    top: -3rem;
+    background-color: grey;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+    }
+/* contact me */
+.card {
+    position: absolute;
+    top: 20%;
+}
+
 
 .footer {
     position: absolute;
     width: 100%;
-    background-color: grey;
+    background-color: #4aaaa5;
     text-align: center;
     bottom: 0;
 }
@@ -24,7 +79,8 @@ main{
 h1{
     font-weight: bold;
     font-size: 24px;
-    color: grey;
+    color: #4aaaa5;
+
 }
 
 .submit-btn {
@@ -34,3 +90,14 @@ h1{
     width: 350px;
     height: auto;
 }
+
+
+h1, h2{
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: 700;
+   color:#4aaaa5;
+}
+
+
+
+
