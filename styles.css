@@ -4,7 +4,7 @@
     font-weight: 700;
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
-    padding: 2rem;
+    padding: 1rem;
 }
 /* Navbar header */
 .header{
@@ -25,7 +25,13 @@
     background-color:teal;
     margin-top: 1rem;
 }
-
+body {
+    background: url('http://bridgecomdc.newswatchtv.com/wp-content/uploads/2016/11/light-grey-background.jpg')no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
 
 .aboutmeimg{
     float: left;
@@ -74,6 +80,7 @@ h3{
 
 main{
     background-color:white;
+    padding-top: 60px
 }
 
 h1{
@@ -81,6 +88,10 @@ h1{
     font-size: 24px;
     color: #4aaaa5;
 
+}
+
+section{
+    left:7%;
 }
 
 .submit-btn {
