@@ -54,16 +54,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](#https://idelmundo.github.io/portfolio/index.html)
 
 
 ## Authors
 
-* **YOUR NAME** 
+* **Isaias Del Mundo** 
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+- [Link to Portfolio Site](https://idelmundo.github.io/portfolio/index.html)
+- [Link to Github](https://github.com/idelmundo)
+- [Link to LinkedIn](https://www.linkedin.com/in/isaiasdelmundo/
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
