@@ -1,6 +1,5 @@
 .heading{
     background-color: #4aaaa5;
-    color: #fff;
     font-weight: 700;
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
@@ -12,6 +11,15 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 }
+a{
+    color: white;
+}
+#username{
+    color: white;
+}
+.navbar-brand{
+    color: #4aaaa5;
+}
 
 .row{
     background-color: white;
@@ -22,7 +30,6 @@
 /* index html about me */
 
 .col-md-6{
-    background-color:teal;
     margin-top: 1rem;
 }
 body {
@@ -38,8 +45,8 @@ body {
     width: 20vw;
     height: auto;
     margin: 1em;
-  
 }
+
 .block-header{
     padding-top: 2rem;
 }
@@ -47,6 +54,10 @@ body {
 .col-md-8 {
     padding-top: 2rem;
 }
+.row {
+    margin-top: 3rem;
+}
+
 .img-thumbnail {
     width: 350%;
     border:0;
@@ -66,7 +77,8 @@ h3{
 /* contact me */
 .card {
     position: absolute;
-    top: 20%;
+    top: 10%;
+    left: 12.5%;
 }
 
 
@@ -78,10 +90,7 @@ h3{
     bottom: 0;
 }
 
-main{
-    background-color:white;
-    padding-top: 60px
-}
+
 
 h1{
     font-weight: bold;
