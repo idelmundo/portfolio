@@ -1,71 +1,81 @@
-.heading{
+.heading {
     background-color: #4aaaa5;
     font-weight: 700;
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
     padding: 1rem;
 }
+
+
 /* Navbar header */
-.header{
+
+.header {
     color: #4aaaa5;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 }
-a{
+
+a {
     color: white;
 }
-#username{
+
+#username {
     color: white;
 }
-.navbar-brand{
+
+.navbar-light .navbar-brand {
     color: #4aaaa5;
 }
 
-.row{
+.row {
     background-color: white;
 }
 
 
-
 /* index html about me */
 
-.col-md-6{
+.col-md-6 {
     margin-top: 1rem;
 }
+
 body {
     background: url('http://bridgecomdc.newswatchtv.com/wp-content/uploads/2016/11/light-grey-background.jpg')no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-  }
+}
 
-.aboutmeimg{
+.aboutmeimg {
     float: left;
     width: 20vw;
     height: auto;
     margin: 1em;
 }
 
-.block-header{
+.block-header {
     padding-top: 2rem;
 }
-/* portfolio */
+
+
+/* portfolio starts here */
+
 .col-md-8 {
     padding-top: 2rem;
 }
+
 .row {
     margin-top: 3rem;
 }
 
 .img-thumbnail {
     width: 350%;
-    border:0;
-    padding:0;
+    border: 0;
+    padding: 0;
     height: 80%;
 }
 
-h3{
+h3 {
     position: relative;
     top: -3rem;
     background-color: grey;
@@ -73,14 +83,16 @@ h3{
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     color: white;
-    }
+}
+
+
 /* contact me */
+
 .card {
     position: absolute;
     top: 10%;
     left: 12.5%;
 }
-
 
 .footer {
     position: absolute;
@@ -90,34 +102,28 @@ h3{
     bottom: 0;
 }
 
-
-
-h1{
+h1 {
     font-weight: bold;
     font-size: 24px;
     color: #4aaaa5;
-
 }
 
-section{
-    left:7%;
+section {
+    left: 7%;
 }
 
 .submit-btn {
     margin-top: 1rem;
 }
-.aboutme{
+
+.aboutme {
     width: 350px;
     height: auto;
 }
 
-
-h1, h2{
-   font-family: 'Times New Roman', Times, serif;
-   font-weight: 700;
-   color:#4aaaa5;
+h1,
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: #4aaaa5;
 }
-
-
-
-
